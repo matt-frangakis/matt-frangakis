@@ -2,7 +2,7 @@
 
 Thanks for stopping by!
 
-## I'm Matt Frangakis. Pleasure to make your acquantance.
+## I'm Matt Frangakis. Pleasure to make your acquaintance.
 
 I'm an aeronautical engineer by education and a software engineer by profession. I love applying engineering principles to software development, in order to solve real-world problems, specifically of an engineering nature; but to not just solve them, but solve them *scalably* and *reliably*. 
 
